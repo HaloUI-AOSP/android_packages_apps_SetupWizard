@@ -1,6 +1,6 @@
 /*
  * SPDX-FileCopyrightText: 2019-2020 The Calyx Institute
- * SPDX-FileCopyrightText: The LineageOS Project
+ * SPDX-FileCopyrightText: The haloUI Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
